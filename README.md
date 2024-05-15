@@ -1,2 +1,2 @@
-# cap-sample02
+# Abap samples
 Training 02
